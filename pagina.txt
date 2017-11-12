@@ -1,8 +1,12 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <title> Titlul </title>
-  </head>
-  <body>
-    Continut
-  </body>
+<head>
+<title>Test</title>
+</head>
+<body>
+
+<h1>Amintiri din facutate</h1>
+<p>Am creat aceasta pagina cu scop universitar.</p>
+
+</body>
 </html>
